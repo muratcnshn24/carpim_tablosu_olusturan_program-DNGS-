@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>carpim_tablosu_olusturan_program_DNGS_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
